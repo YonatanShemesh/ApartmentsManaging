@@ -1,0 +1,20 @@
+﻿  All_List_Functions.c
+  binary_Function.c
+c:\users\yonatan\onedrive\שולחן העבודה\apartmentsmanagingproject\apartmentsmanagingproject\apartmentsmanagingproject\binary_function.c(15): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+c:\users\yonatan\onedrive\שולחן העבודה\apartmentsmanagingproject\apartmentsmanagingproject\apartmentsmanagingproject\binary_function.c(71): warning C4244: '=': conversion from 'short' to 'unsigned char', possible loss of data
+  commands.c
+c:\users\yonatan\onedrive\שולחן העבודה\apartmentsmanagingproject\apartmentsmanagingproject\apartmentsmanagingproject\commands.c(68): warning C4477: 'sscanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'short *'
+  c:\users\yonatan\onedrive\שולחן העבודה\apartmentsmanagingproject\apartmentsmanagingproject\apartmentsmanagingproject\commands.c(68): note: consider using '%hd' in the format string
+c:\users\yonatan\onedrive\שולחן העבודה\apartmentsmanagingproject\apartmentsmanagingproject\apartmentsmanagingproject\commands.c(72): warning C4477: 'sscanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'short *'
+  c:\users\yonatan\onedrive\שולחן העבודה\apartmentsmanagingproject\apartmentsmanagingproject\apartmentsmanagingproject\commands.c(72): note: consider using '%hd' in the format string
+  DataBases.c
+  free_Functions.c
+  main.c
+  other_Functions.c
+  prints.c
+  serches.c
+  sorts.c
+  text_Functions.c
+  Generating Code...
+c:\users\yonatan\onedrive\שולחן העבודה\apartmentsmanagingproject\apartmentsmanagingproject\apartmentsmanagingproject\serches.c(128): warning C4715: 'evacuateuntil': not all control paths return a value
+  ApartmentsManagingProject.vcxproj -> C:\Users\yonatan\OneDrive\שולחן העבודה\ApartmentsManagingProject\ApartmentsManagingProject\Debug\ApartmentsManagingProject.exe
